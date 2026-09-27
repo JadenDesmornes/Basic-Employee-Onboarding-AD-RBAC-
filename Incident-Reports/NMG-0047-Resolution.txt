@@ -1,0 +1,19 @@
+Ticket Number NMG-0047
+
+Affected User: Jane Cooper (jcooper@NMG.com)
+
+Issue Reported: Unable to access HR hared resources. 
+Desktop policies and mapped drives differ from teammates.
+
+Root Cause: Jane Cooper was placed in the incorrect OU (Operations) and Security Group 
+(Operations-Users), restricting her desktop policies and mapped drives.
+
+Fix Applied: Removed Jane from the incorrect OU and Group, and placed her into the HR OU,
+and HR Security Group.
+
+Verification: Double checked the HR OU, and HR Security Group, and confirmed that she was
+in the now correct unit. Also checked to make sure to was removed from Operations.
+
+Date Resolved: 9/26/26
+
+Resolved By: IT New Hire (Jaden Desmornes)
