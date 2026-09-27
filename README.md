@@ -26,9 +26,9 @@ Beginning the lab, I created a domain controller. Following this creation a stru
 * Day 5: Documentation and case study packaging
 
 ## Key Accomplishments
-* Built NMG.com domain from scratch
-* [Learning how to properly configure a Domain Controller.]
-* [Resolving a mock ticket pertaining to incorrect access for a user.]
+* Built NMG.com domain from scratch.
+* Learning how to properly configure a Domain Controller.
+* Resolving a mock ticket pertaining to incorrect access for a user.
 
 
 
