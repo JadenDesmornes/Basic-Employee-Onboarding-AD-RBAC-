@@ -5,7 +5,7 @@
 At a fictional company called Northstar Medical Group, there was clear prior MSP mismanagement. This company delagated their Identity Lifecycle workflow to this third-party MSP. The Active Directory was disorganized, users got added manually, and user permissions were inconsistent. Off-boarding was improper leaving some users with unnecessary access to shared drives and files. With these issues, this led to HIPAA risks if an audit were to have taken place.
 
 ## Solution Overview
-Beginning the lab, I created a domain controller using a Windows Server. Following this creation a structural OU system was designed to separate the Financial, HR, IT, and Operations departments. I implemented RBAC by creating Security groups pertaining to each department as well. I also resolved a mock ticket where a user was provisioned the wrong access. New users were provisioned by receiving their specific Job Titles/roles and added to their departments.
+Beginning the lab, I created a domain controller in a virtual machine environment using a Windows Server. Following this creation a structural OU system was designed to separate the Financial, HR, IT, and Operations departments. I implemented RBAC by creating Security groups pertaining to each department as well. I also resolved a mock ticket where a user was provisioned the wrong access. New users were provisioned by receiving their specific Job Titles/roles and added to their departments.
 
 ## Video Walkthrough
 [Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
