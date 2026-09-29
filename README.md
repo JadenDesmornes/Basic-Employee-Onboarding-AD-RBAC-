@@ -8,7 +8,7 @@ At a fictional company called Northstar Medical Group, there was clear prior MSP
 Beginning the lab, I created a domain controller in a virtual machine environment using a Windows Server. Following this creation a structural OU system was designed to separate the Financial, HR, IT, and Operations departments. I implemented RBAC by creating Security groups pertaining to each department as well. I also resolved a mock ticket where a user was provisioned the wrong access. New users were provisioned by receiving their specific Job Titles/roles and added to their departments.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+https://www.loom.com/share/cbd94a2a60e741e78805ccfdcdcfa1d7
 
 ## Tools Used
 * Windows Server
